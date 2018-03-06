@@ -1,0 +1,74 @@
+{
+  "status": "OK",
+  "data": {
+    "wallet": {
+      "cards": [
+        {
+          "cardHolderName": "Dhamodharab",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "3773 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "mndlgen",
+          "first4": "5331",
+          "last4": "3804",
+          "cardId": "550d0041aa93a7e0902f762a192c60289f17343079786646bcad1b6469c17ee0~26344813",
+          "cardType": "Mastercard",
+          "formattedCardNum": "5173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "Dhamodharab",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "6173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "mndlgen",
+          "first4": "4173",
+          "last4": "9236",
+          "cardId": "82dd0f3ef41c84df68dfe2959ad47a03ca312c751e78830cdeec43077d10df65~31249111",
+          "cardType": "Visa",
+          "formattedCardNum": "4173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "mndlgen",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "4173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "Dhamodharab",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "6173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "Dhamodharab",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "4173 XXXX XXXX 9236"
+        },
+        {
+          "cardHolderName": "Dhamodharab",
+          "first4": "5267",
+          "last4": "4474",
+          "cardId": "496113bab780c6ffe65531fcf73efbb4ce515b5d28893ae6f8005dc38ce17818~31249730",
+          "cardType": "Mastercard",
+          "formattedCardNum": "6173 XXXX XXXX 9236"
+        }
+      ]
+    }
+  },
+  "message": "Card data"
+}
