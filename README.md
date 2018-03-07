@@ -133,48 +133,7 @@ dependencies {
             />
 ```
 
-Design Credits
---------------
-* Ramakrishna - <https://dribbble.com/RamakrishnaUX>
 
-Developed By
-------------
-
-* Harish Sridharan - <harish.sridhar@gmail.com>
-
-Acknowledgements
-----------------
-
-* Michele Lacorte for his [Swipeable Cards][1] involving CreditCardView
-
-<img src='https://camo.githubusercontent.com/34d3793e2e1c9d3def671d01704a2474c6dc103c/687474703a2f2f692e67697068792e636f6d2f336f726e6a514c4439354f737034716c6d382e676966'  />
-
-License
---------
-```
-Copyright 2016 Harish Sridharan
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-
-[master_front]:https://cloud.githubusercontent.com/assets/13122232/12871102/8b681fae-cd8e-11e5-8831-7b1fc1970194.png
-[master_back]:https://cloud.githubusercontent.com/assets/13122232/12871095/4ce9a234-cd8e-11e5-8c4e-384ce6874029.png
-[visa_front]:https://cloud.githubusercontent.com/assets/13122232/12871145/b57f92f2-cd90-11e5-8f36-086b227d06c3.png
-[amex_front]:https://cloud.githubusercontent.com/assets/13122232/12871146/c22cf74c-cd90-11e5-85e4-3ab45d50ba76.png
-[amex_back]:https://cloud.githubusercontent.com/assets/13122232/12871156/3124d570-cd91-11e5-8b71-f333e46192bb.png
-[visa_back]:https://cloud.githubusercontent.com/assets/13122232/12871157/31625b5c-cd91-11e5-87f7-f42a6404842b.png
-[1]: https://github.com/michelelacorte/SwipeableCard
 
 
 
